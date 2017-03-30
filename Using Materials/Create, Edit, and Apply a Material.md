@@ -1,34 +1,36 @@
-# Create, Edit, and Apply a Material
 
-----
 
-Use the Material Editor to place a material on an object or a selected object face.
+# Erstellen, Bearbeiten und Anwenden eines Materials
 
-Materials can be applied to faces or entire objects.
+---
 
-## Apply a Material
+Verwenden Sie den Material-Editor, um ein Material einem Objekt oder einer ausgewählten Fläche eines Objekts zuzuweisen.
 
-1. To apply a material, first select a face or object.
-2. Click the tab on the right side of the screen and click the icon for the Material Editor.
-3. Choose a material from the displayed selection, or create your own. 
-    
-    ![](Images/GUID-87E0DFA7-1969-4E38-BB50-EF16CF166C8D-low.png)
+Sie können Materialien auf Flächen oder ganze Objekte anwenden.
 
-## Edit a Material
+## Material anwenden
 
-1. Select a material.
-2. Choose the Edit icon.
-3. Replace the bitmap or alter the color scheme for the material.
+1. Um ein Material anzuwenden, wählen Sie zuerst eine Fläche oder ein Objekt aus.
+2. Klicken Sie auf die Registerkarte an der rechten Seite des Bildschirms und dann auf das Symbol für den Material-Editor.
+3. Wählen Sie ein Material aus der angezeigten Auswahl, oder erstellen Sie ein eigenes.
 
-Tablets let you choose between swatches and a color wheel.
+![](Images/GUID-87E0DFA7-1969-4E38-BB50-EF16CF166C8D-low.png)
 
-1. Select Done.
+## Material bearbeiten
 
-### Create a Material
+1. Wählen Sie ein Material aus.
+2. Wählen Sie das Symbol Bearbeiten.
+3. Ersetzen Sie die Bitmap, oder ändern Sie das Farbschema für das Material.
 
-1. Select the "+" (plus icon or +Create button).
-2. Choose a bitmap to use for the material.
+Auf Tablets können Sie wahlweise Farbfelder oder einen Farbkreis verwenden.
 
-Load an image from a file, or even take a photo with a tablet.
+1. Klicken Sie auf Fertig.
+### Erstellen eines Materials
 
-1. Choose a color for the material.
+1. Wählen Sie das Pluszeichen (+) oder die Schaltfläche +Erstellen.
+2. Wählen Sie eine Bitmap für das Material.
+
+Laden Sie ein Bild aus einer Datei, oder nehmen Sie mit dem Tablet ein Foto auf.
+
+1. Wählen Sie eine Farbe für das Material.
+

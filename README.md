@@ -1,1 +1,4 @@
-This book was generated automatically by Mode Lab.
+
+
+Dieses Handbuch wurde automatisch von Mode Lab erstellt.
+

@@ -1,29 +1,28 @@
-# Building Performance
+# Gebäudenutzbarkeit
 
-----
+---
 
-Start a BIM workflow by evaluating the performance of elements from the beginning of the design process.
+Starten Sie BIM-Arbeitsabläufe, indem Sie im Entwurfsprozess von Anfang an die Effizienz von Elementen beurteilen.
 
-### Building Performance
+### Gebäudenutzbarkeit
 
 | | |
 | ---- | ---- |
-| The Building Program screen provides an indication of Building Type and Site Area.   |   ![](Images/GUID-26E00518-4DA2-4C47-85CE-1589B6B1BF58-low.png)   |
+| Im Bildschirm Gebäudeprogramm werden der Gebäudetyp und die Grundstücksfläche angezeigt. | ![](Images/GUID-26E00518-4DA2-4C47-85CE-1589B6B1BF58-low.png) |
 
 
-#### See Also
+#### Siehe auch
 
-* [Examine Object Properties ](../../Modify Designs/Examine Object Properties.md)
-* [Levels and Volume ](../../Levels and Space Usage.md)
+* [Objekteigenschaften anzeigen ](../../Modify Designs/Examine Object Properties.md)
+* [Ebenen und Volumen ](../../Levels and Space Usage.md)
 
-  
+#### Themen in diesem Abschnitt
 
-#### Topics in this section
+* [ Sonnen- und Schatteneinstellungen ](../Sun and Shadow Settings.md)
 
-* [ Sun and Shadow Settings ](../Sun and Shadow Settings.md)
-    
-    Control the angle of the shadows at your locations by setting date and time.
-* [Solar Analysis](../Solar Analysis.md)
-    
-    Visualize the amount of solar radiation that your model receives.
+Steuern Sie die Winkel der Schatten an Ihren Standorten mithilfe von Datum und Uhrzeit.
+
+* [Sonnenstudie](../Solar Analysis.md)
+
+Visualisierung der Sonneneinstrahlung auf Ihr Modell.
 

@@ -1,11 +1,14 @@
-# Saving Your Work
 
-----
 
-Preserve your designs in multiple formats.
- 
-* All your sketches can be accessed from your device gallery by tapping on the FormIt 360 icon, or on http://360.autodesk.com . Also Tap the FormIt 360 icon to save a sketch. Every time you return to the gallery, you will be prompted to save your sketch. Sign into http://360.autodesk.com to synchronize your files to the cloud. 
-    
-    ![](Images/GUID-87DA3B6E-82C2-4609-9603-5D8B4C5E1C7C-low.png)
+# Speichern Ihrer Arbeiten
 
-When a sketch is synchronized to http://360.autodesk.com three files are created in AXM, SAT, and RVT formats (the latter for opening in Revit software-based products). ![](Images/GUID-77322109-D293-4D4B-8291-3E3014A9FFE6-low.jpg) The Revit file can be downloaded locally, and opened directly in Revit.
+---
+
+Ihre Entwürfe bleiben in unterschiedlichen Formaten unverändert erhalten.
+
+* Sie können auf alle Ihre Skizzen über den Katalog Ihres Geräts durch Tippen auf das FormIt 360-Symbol oder über [http://360.autodesk.com](http://360.autodesk.com) zugreifen. Durch Tippen auf das FormIt 360-Symbol können Sie Skizzen auch speichern. Jedes Mal, wenn Sie zum Katalog zurückzukehren, werden Sie aufgefordert, Ihre Skizze zu speichern. Melden Sie sich bei [http://360.autodesk.com](http://360.autodesk.com) an, um Ihre Dateien in der Cloud zu synchronisieren.
+
+![](Images/GUID-87DA3B6E-82C2-4609-9603-5D8B4C5E1C7C-low.png)
+
+Beim Synchronisieren einer Skizze in [http://360.autodesk.com](http://360.autodesk.com) werden drei Dateien in den Formaten AXM, SAT und RVT (letztere zum Öffnen in auf Revit-Software basierenden Produkten) erstellt. ![](Images/GUID-77322109-D293-4D4B-8291-3E3014A9FFE6-low.jpg) Die Revit-Datei kann lokal heruntergeladen und direkt in Revit geöffnet werden.
+

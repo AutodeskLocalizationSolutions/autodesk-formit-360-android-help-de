@@ -1,33 +1,32 @@
-# Using Materials
 
-----
 
-Enrich and enhance designs using Materials to add detail.
- 
+# Arbeiten mit Materialien
 
-The Material Editor is located in the right-side palette. In the Editor, you can create new materials and add them to your Material Library. To add color to a material, you can use the color picker to accurately set the tint for the material or select a predefined color swatch.
+---
 
-* Materials allow you to add detail to your sketch. You can apply materials to faces or entire objects using the Material Editor found in the right-side palette. 
-    
-    ![](Images/GUID-87E0DFA7-1969-4E38-BB50-EF16CF166C8D-low.png)
+Mit Materialien arbeiten Sie Ihre Entwürfe detaillierter aus, verbessern sie und gestalten sie ansprechender.
 
-The widgets provided by the Materials Editor allow you to:
+Der Material-Editor befindet sich in der Palette auf der rechten Seite. Im Editor können Sie neue Materialien erstellen und Ihrer Materialbibliothek hinzufügen. Um einem Material eine Farbe zuzuweisen, können Sie entweder mithilfe der Farbwahl den Farbton des Materials präzise festlegen oder ein vordefiniertes Farbfeld wählen.
 
-* Activate the paintbrush tool
-* Edit the color or the bitmap image of a material
-* Copy or delete a material
+* Mithilfe von Materialien können Sie Ihre Skizze detaillierter gestalten. Sie können Materialien mithilfe des Material-Editors in der Palette auf der rechten Seite auf Flächen oder ganze Objekte anwenden.
 
-When applied to the sketch, materials will be added to a list of already used materials for easy access. A material can have a texture (bitmap) and/or color. When a material has both texture and color, the two are multiplied together.
+![](Images/GUID-87E0DFA7-1969-4E38-BB50-EF16CF166C8D-low.png)
 
-* Use the Material Editor to modify or create materials. 
-    
-    ![](Images/GUID-13B3AF0B-952F-49DF-B486-86A2035A55CB-low.png)
+Die Widgets im Material-Editor ermöglichen die folgenden Vorgänge:
 
-  
+* Aktivieren des Pinselwerkzeugs
+* Bearbeiten der Farbe oder des Bitmap-Bilds für ein Material
+* Kopieren oder Löschen eines Materials
 
-#### Topics in this section
+Wenn Materialien auf eine Skizze angewendet werden, werden sie in die Liste der bereits verwendeten Materialien aufgenommen und sind dadurch leichter verfügbar. Für ein Material kann eine Textur (Bitmap) und/oder eine Farbe vorhanden sein. Bei Materialien, die sowohl Textur als auch Farbe aufweisen, werden beide miteinander multipliziert.
 
-* [Create, Edit, and Apply a Material](../Create, Edit, and Apply a Material.md)
-    
-    Use the Material Editor to place a material on an object or a selected object face.
+* Mit dem Material-Editor können Sie Materialien erstellen oder ändern.
+
+![](Images/GUID-13B3AF0B-952F-49DF-B486-86A2035A55CB-low.png)
+
+#### Themen in diesem Abschnitt
+
+* [Erstellen, Bearbeiten und Anwenden von Materialien](../Create, Edit, and Apply a Material.md)
+
+Verwenden Sie den Material-Editor, um ein Material einem Objekt oder einer ausgewählten Fläche eines Objekts zuzuweisen.
 

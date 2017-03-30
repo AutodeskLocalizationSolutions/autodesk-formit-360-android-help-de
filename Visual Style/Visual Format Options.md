@@ -1,12 +1,12 @@
-# Visual Format Options
+# Optionen für visuelle Formate
 
-----
+---
 
-Description of choices for visual style.
+Beschreibung der Optionen für den Bildstil.
 
-### Visual Style Options
+### Bildstiloptionen
 
 | | |
 | ---- | ---- |
-| ![](Images/GUID-24632A75-8D3B-48A7-8D72-3D2A4E8454FA-low.png)   |   <br>You can access the Settings menu by tapping on the gear icon from the toolbar. You have several modifiable options:<br><br>* Space usage graph: Toggle on/off the statistics display just below drawing name<br>* Units: Specify the sketch's units, Imperial or Metric<br>* Display Sketchy Lines: Toggle to turn sketchy lines on and off.<br>* Show Hidden Lines: Change the appearance of your sketch by toggling features like sketchy lines, hidden lines, or extended lines<br>* Extend Lines: Toggle to see extended lines.<br>* Show Level: See levels<br>* Display Grid: Toggle to turn grid view on and off.<br>* Level Heights: See the heights of levels.<br>  |
+| ![](Images/GUID-24632A75-8D3B-48A7-8D72-3D2A4E8454FA-low.png) | <br>Durch Tippen auf das Zahnradsymbol im Werkzeugkasten rufen Sie das Menü Einstellungen auf. Es stehen mehrere Optionen zur Verfügung, die Sie anpassen können:<br><br>* Raumnutzungsdiagramm: Anzeige der Statistik unter dem Namen der Zeichnung aktivieren oder deaktivieren<br>* Einheiten: Festlegen der Einheiten für die Skizze: Britisch oder metrisch<br>* Skizzenartige Linien: Umschalter zum Aktivieren oder Deaktivieren der skizzenartigen Linien<br>* Verdeckte Linien anzeigen: Ändern der Darstellung der Skizze durch Aktivieren oder Deaktivieren von Funktionen wie skizzenartigen Linien, verdeckten Linien oder verlängerten Linien<br>* Linien verlängern: Aktivieren oder Deaktivieren der Anzeige verlängerter Linien<br>* Ebenen anzeigen: Einblenden von Ebenen<br>* Raster anzeigen: Aktivieren oder Deaktivieren der Rasteranzeige<br>* Ebenenhöhen: Anzeigen der Höhe von Ebenen.<br> |
 

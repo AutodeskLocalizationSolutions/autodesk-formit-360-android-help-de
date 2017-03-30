@@ -1,22 +1,26 @@
-# Levels and Space Usage
 
-----
 
-See area calculations for objects in a design.
+# Ebenen und Flächennutzung
 
-## Enable Levels
+---
 
-1. Tap Settings and then toggle Show Level. 
-    
-    ![](Images/GUID-94508505-EF2B-499E-8947-E5FF72C00EF6-low.png)
-2. Click Level Heights to add or modify level values. 
-    
-    ![](Images/GUID-FD13636D-88B5-479E-B770-28E39593ED7A-low.png)
+Zeigen Sie Flächenberechnungen für Objekte in einem Entwurf an.
 
-## Properties and Space Usage
+## Ebenen aktivieren
 
-Open the right-side palette to the Building Properties tab to view or edit the properties of selected individual objects in a sketch. Under Properties, you can edit the object's name, see its volume/area, or toggle/edit levels.
+1. Klicken Sie auf Einstellungen, und aktivieren Sie dann Ebene anzeigen.
 
-* Once the Building Area in the top left widgets panel is set, the Gross Area and Floor Area Ratio will automatically update for the entire sketch. To activate this feature and add individual elements to these figures, the Area by Level toggle found under Properties must be enabled on each object. 
-    
-    ![](Images/GUID-BBAAFEE8-767B-4F46-8068-FFAE22514E44-low.png)
+![](Images/GUID-94508505-EF2B-499E-8947-E5FF72C00EF6-low.png)
+
+2. Klicken Sie auf Ebenenhöhe, um Ebenenwerte hinzuzufügen oder zu bearbeiten.
+
+![](Images/GUID-FD13636D-88B5-479E-B770-28E39593ED7A-low.png)
+
+## Eigenschaften und Raumnutzung
+
+Öffnen Sie in der Palette auf der rechten Seite die Registerkarte Gebäudeeigenschaften, um die Eigenschaften ausgewählter Einzelobjekte in einer Skizze anzuzeigen oder zu bearbeiten. Unter Eigenschaften können Sie den Namen des Objekts bearbeiten, sein Volumen/seine Fläche anzeigen sowie zwischen Ebenen wechseln und sie bearbeiten.
+
+* Sobald die Gebäudefläche im linken oberen Widgets-Bereich festgelegt wurde, werden die Werte für Bruttofläche und Verhältnis Geschossdeckenfläche automatisch für die gesamten Skizze aktualisiert. Um diese Funktion zu aktivieren und diesen Zahlen weitere Angaben hinzuzufügen, müssen Sie unter Eigenschaften die Option Fläche nach Ebene für jedes Objekt aktivieren.
+
+![](Images/GUID-BBAAFEE8-767B-4F46-8068-FFAE22514E44-low.png)
+

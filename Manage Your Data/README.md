@@ -1,20 +1,20 @@
-# Manage Your Data
 
-----
 
-Use multiple data formats to preserve and share your designs.
- 
+# Verwalten Ihrer Daten
 
-Share and save your data in many formats.
+---
 
-  
+Entwürfe können in einer Reihe verschiedener Datenformate aufbewahrt und freigegeben werden.
 
-#### Topics in this section
+Sie können Ihre Daten in zahlreichen Formaten freigeben und speichern.
 
-* [ Saving Your Work](../Saving Your Work.md)
-    
-    Preserve your designs in multiple formats.
-* [Revit Files](../Revit Files.md)
-    
-    Save your design in a format that Revit can open and use.
+#### Themen in diesem Abschnitt
+
+* [ Speichern Ihrer Arbeiten](../Saving Your Work.md)
+
+Ihre Entwürfe bleiben in unterschiedlichen Formaten unverändert erhalten.
+
+* [Revit-Dateien](../Revit Files.md)
+
+Sie können Entwürfe in einem Format speichern, das in Revit geöffnet und verwendet werden kann.
 
